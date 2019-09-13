@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='.\Screenshots\Buy Shoes and get free shipping on AliExpress.com.png'height='400' width='400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='.\Screenshots\Buy Shoes and get free shipping on AliExpress.com.png'height='400' width='400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='.\Screenshots\Buy Shoes and get free shipping on AliExpress.com.png'height='400' width='400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="156100" started-at="2019-09-13T09:48:20Z" finished-at="2019-09-13T09:50:56Z">
+    <groups>
+    </groups>
+    <test name="codingRound-master" duration-ms="156100" started-at="2019-09-13T09:48:20Z" finished-at="2019-09-13T09:50:56Z">
+      <class name="TestcasePackage.aliexpress">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestcasePackage.aliexpress@47f37ef1]" name="beforeTest" is-config="true" duration-ms="2958" started-at="2019-09-13T15:18:20Z" finished-at="2019-09-13T15:18:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="SearchItems()[pri:0, instance:TestcasePackage.aliexpress@47f37ef1]" name="SearchItems" duration-ms="79021" started-at="2019-09-13T15:18:23Z" finished-at="2019-09-13T15:19:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='.\Screenshots\Buy Shoes and get free shipping on AliExpress.com.png'height='400' width='400'/><br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='.\Screenshots\Buy Shoes and get free shipping on AliExpress.com.png'height='400' width='400'/><br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='.\Screenshots\Buy Shoes and get free shipping on AliExpress.com.png'height='400' width='400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchItems -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestcasePackage.aliexpress@47f37ef1]" name="beforeTest" is-config="true" duration-ms="2291" started-at="2019-09-13T15:19:42Z" finished-at="2019-09-13T15:19:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="UserLogin()[pri:0, instance:TestcasePackage.aliexpress@47f37ef1]" name="UserLogin" duration-ms="51838" started-at="2019-09-13T15:19:44Z" finished-at="2019-09-13T15:20:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- UserLogin -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestcasePackage.aliexpress@47f37ef1]" name="beforeTest" is-config="true" duration-ms="2136" started-at="2019-09-13T15:20:36Z" finished-at="2019-09-13T15:20:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="UserRegisteration()[pri:0, instance:TestcasePackage.aliexpress@47f37ef1]" name="UserRegisteration" duration-ms="17842" started-at="2019-09-13T15:20:38Z" finished-at="2019-09-13T15:20:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='.\Screenshots\AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More..png'height='400' width='400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- UserRegisteration -->
+      </class> <!-- TestcasePackage.aliexpress -->
+    </test> <!-- codingRound-master -->
+  </suite> <!-- Suite -->
+</testng-results>
